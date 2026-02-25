@@ -1,0 +1,2 @@
+SQL: use vertical scaling ,relation database , fixed , use tables , structured database
+NOSQL: use horizontal scaling , non-relation database , flexible schema , use documents ,for large data
